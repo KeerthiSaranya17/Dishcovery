@@ -1,12 +1,41 @@
-# React + Vite
+🍽️ Dishcovery
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Dishcovery is a recipe discovery web application that helps users explore dishes based on ingredients, cooking style, mood, and available time.
+With an intuitive UI, smart filters, and a "Surprise Me" feature, Dishcovery makes cooking fun and personalized.
 
-Currently, two official plugins are available:
+🚀 Current Features (Implemented ✅)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔎 Search by Ingredient – Find recipes based on the ingredients you enter.
 
-## Expanding the ESLint configuration
+📂 Select by Category – Browse recipes by categories (e.g., Dessert, Main Course, Snacks, etc.).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎲 Random Recipe Generator – Get a random recipe suggestion with one click.
+
+🎨 Modern UI – Responsive design using Tailwind CSS.
+
+🛠️ Planned Features (Coming Soon 🚧)
+
+🚫 Exclude Ingredients – Avoid allergens or disliked foods easily.
+
+😋 Mood-based Filters – Comfort food, light meals, or sweet treats.
+
+⏳ Time Filter – Choose quick recipes (≤30 min) or longer meals.
+
+🎲 Surprise Me – Get a random recipe suggestion when you can’t decide.
+
+🌐 Responsive UI – Optimized for desktop and mobile devices.
+
+🎨 Modern Design – Built with Tailwind CSS for a clean and stylish look.
+
+🛠️ Tech Stack
+
+Frontend: React.js, Tailwind CSS
+
+Backend/API: (Custom/3rd Party API for recipes)
+
+State Management: React Hooks
+
+Version Control: Git & GitHub
+
+
+Thank You.
