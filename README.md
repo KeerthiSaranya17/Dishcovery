@@ -13,6 +13,7 @@ With an intuitive UI, smart filters, and a "Surprise Me" feature, Dishcovery mak
 
 🎨 Modern UI – Responsive design using Tailwind CSS.
 
+
 🛠️ Planned Features (Coming Soon 🚧)
 
 🚫 Exclude Ingredients – Avoid allergens or disliked foods easily.
