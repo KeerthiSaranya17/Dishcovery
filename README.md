@@ -54,7 +54,6 @@ Future improvements planned for this project include:
 * React.js
 * JavaScript
 * HTML5
-* CSS3
 * Tailwind CSS
 
 ### Build Tool
